@@ -1,0 +1,23 @@
+.photo {
+    width: 300px;
+}
+.em {
+    font-style: italic;
+}
+.div {
+    border: 1px solid black;
+    width: fit-content;
+    padding: 10px;
+    box-shadow: 5px 5px #d4d4d4;
+}
+.div2 {
+    border: 1px solid black;
+    width: 278px;
+    padding: 10px;
+}
+span {
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+  }
